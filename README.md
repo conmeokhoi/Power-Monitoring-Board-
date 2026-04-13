@@ -2,7 +2,7 @@
 ## Overview
 This project features a custom-designed PCB that integrates an ESP32-WROOM-32 microcontroller with sensing and switching components to create an intelligent power management system. It provides real-time current monitoring, automated overload protection, and IoT connectivity for remote data visualization.
 
-![alt text](/Pic/IMG_5706.HEIC)
+![alt text](/Pic/Front.jpg)
 
 Technical Specifications
 Microcontroller: ESP32 (KIT ESP32 V1.3 by IoT Vision).
